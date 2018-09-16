@@ -2,17 +2,31 @@ body{
     
     width: auto;
     margin: auto;
-    border: 10px dotted black;
+    border: 10px solid black;
     background: gray;
     padding: 0ch;
 }
-
+#head{
+    text-align: center;
+    color:whitesmoke;
+}
 h2{
     text-align: center;
-    color: blue;
+    color: whitesmoke;
 }
 p{
     font-stretch: initial;
     font-size: 18px;
     font-weight: bold;
+    text-indent: 1em;
+}
+img{
+    width: 100% ;
+    height: 50%;
+}
+.picedit{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
