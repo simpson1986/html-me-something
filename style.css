@@ -1,7 +1,9 @@
 body{
     
-        margin: 25px 50px 75px 100px;
-        background: gray;
+    width: 300px;
+    margin: auto;
+    border: 1px solid red;
+    background: gray;
     
 }
 
